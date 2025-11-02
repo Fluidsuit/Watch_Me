@@ -1,0 +1,32 @@
+.signfooter-main-div {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1em; /* adjust as needed */
+}
+
+
+.signfooter-main-div a {
+    color: white;
+    row-gap: 5em;
+}
+
+.lang-select {
+    background-color: transparent;
+    color: white;
+    height: 2.1em;
+    min-width: 80px;
+    width: 10vw;
+    max-width: 120px;
+    padding: 5px;
+    font-size: 1em;
+    font-weight: 500;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    margin: 45px auto;
+    align-content: center;
+    justify-self: flex-end;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

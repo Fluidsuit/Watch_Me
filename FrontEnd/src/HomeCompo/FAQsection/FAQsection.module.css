@@ -1,0 +1,27 @@
+/* FAQsection.module.css */
+.faq-heading {
+    background-color: transparent;
+    color: white;
+    margin: 1em;
+    margin-left: 0;
+    font-size: 1.9em;
+}
+
+.faq-accordion {
+    background-color: #2D2D2D !important;
+    color: white;
+}
+
+.faq-answer {
+    background-color: #2D2D2D !important;
+    color: white;
+}
+
+.faq-accordion button {
+    background-color: transparent !important;
+    color: inherit;
+}
+
+.faq-accordion button:hover {
+    background-color: #464646 !important;
+}

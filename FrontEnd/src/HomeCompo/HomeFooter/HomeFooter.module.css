@@ -1,0 +1,35 @@
+.foorter-main-div {
+    color: rgb(218, 215, 215);
+    margin-top: 50px;
+    line-height: 2.4em;
+}
+
+.foorter-main-div a {
+    color: rgb(218, 215, 215);
+
+}
+
+.lang-select {
+    background-color: transparent;
+    color: white;
+    height: 2.1em;
+    min-width: 80px;
+    width: 10vw;
+    max-width: 120px;
+    padding: 5px;
+    font-size: 1em;
+    font-weight: 500;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    margin: 45px auto;
+    align-content: center;
+    justify-self: flex-end;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.txt-learn-more {
+    color: blue !important;
+}

@@ -1,0 +1,21 @@
+.login_div {
+    width: auto;
+    border: none;
+    color: white;
+    justify-items: center;
+    justify-self: center;
+    margin: 20vh auto 0 auto;
+}
+
+.login_div>h1 {
+    color: white;
+    font-size: 3.5em;
+    text-align: center;
+    font-weight: 800;
+    user-select: none;
+    margin-bottom: 0.5em;
+}
+
+.login_div>h3 {
+    font-size: 1.3em;
+}

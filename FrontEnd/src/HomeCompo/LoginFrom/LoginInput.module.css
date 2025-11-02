@@ -1,0 +1,45 @@
+.textLoginInput {
+    margin: 2em 0 1em 0;
+    font-weight: 400;
+    font-size: 1em;
+    color: white;
+}
+
+.signin-field-div {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.email-ip-field {
+    margin: 0;
+    height: 3.5em;
+    width: 60%;
+    padding-left: 15px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+.email-ip-field::placeholder {
+    color: rgba(255, 255, 255, 0.745);
+    opacity: 1;
+}
+
+.btn-getstarted {
+    width: 35%;
+    height: 2.3em;
+    color: white;
+    font-size: 1.5em;
+    font-weight: 700;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    padding: 0;
+}

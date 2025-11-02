@@ -1,0 +1,193 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.main-outer-div {
+    height: fit-content;
+    width: 100%;
+    display: block;
+    padding-bottom: 4em;
+    background-color: black;
+}
+
+
+.home-ui {
+    display: block;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 10%, rgba(0, 0, 0, 0.6) 35%, rgba(0, 0, 0, 0.6) 40%, rgba(0, 0, 0, 0.9) 100%), url('../Images/HomeImg/homebgimg.png') no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    width: 100%;
+    height: 100vh;
+}
+
+/* .horizon-glow {
+    width: 100%;
+    height: 100px;
+    background: radial-gradient(ellipse at center, rgba(91, 41, 219, 0.8) 0%, rgba(0, 0, 0, 0) 70%);
+    border-radius: 90%;
+    box-shadow: 0 0 20px rgb(199, 30, 0);
+    position: absolute;
+    bottom: 20;
+    left: 0;
+    overflow: hidden;
+} */
+
+
+.suggestion-div-main>h1 {
+    background-color: black;
+    color: white;
+    margin: 0;
+    font-size: 1.9em;
+    padding: 0 0 0 18vh;
+}
+
+.suggestion-div {
+    width: 100%;
+    height: 40vh;
+    border: 2px solid black;
+    display: flex;
+    margin: 0;
+    padding: 3vw;
+    padding-top: 6vw;
+    box-sizing: border-box;
+    background-color: black;
+    padding: 0px 15vh;
+}
+
+.suggestion-inner-div {
+    display: flex;
+    border: 2px solid black;
+    height: 100%;
+    width: 100%;
+    justify-self: center;
+    flex-flow: row;
+    overflow-x: auto;
+    padding: 15px;
+    align-items: center;
+    gap: 2vw;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.suggestion-inner-div::-webkit-scrollbar {
+    display: none;
+}
+
+.sugg-btnback {
+    justify-self: flex-start;
+    margin-right: auto;
+    height: 40%;
+    margin: 6px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    border: 1px transparent;
+    align-self: center;
+    font-size: 1.1em;
+}
+
+.sugg-btnnext {
+    justify-self: flex-end;
+    margin-left: auto;
+    height: 40%;
+    margin: 6px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    border: 1px transparent;
+    align-self: center;
+    font-size: 1.2em;
+}
+
+.poster-div {
+    display: flex;
+    height: 100%;
+    min-width: fit-content;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.poster-div:hover {
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}
+
+.poster-div>img {
+    display: block;
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.feature-div-outer {
+    width: 100%;
+    height: 100%;
+    min-height: 50vh;
+    border: none;
+    background-color: black;
+    display: block;
+    align-items: center;
+    gap: 5px;
+    padding: 2em 7em 0 7em;
+}
+
+.feature-div-outer>h1 {
+    background-color: transparent;
+    color: white;
+    margin: 1em;
+    margin-left: 0;
+    font-size: 1.9em;
+}
+
+.feature-div {
+    height: 100%;
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 0 5px;
+}
+
+.feature-inner-div {
+    border: none;
+    color: white;
+    border-radius: 10px;
+    height: 40vh;
+    width: 24%;
+    background: linear-gradient(150deg, rgba(9, 34, 60, 1)20%, rgb(103, 18, 111)100%);
+    padding: 1em;
+}
+
+.feature-inner-div>h3 {
+    color: white;
+    font-size: 1.5em;
+    font-weight: 650;
+}
+
+.feature-inner-div>p {
+    font-weight: 500;
+    color: rgba(245, 245, 245, 0.721);
+    display: flex;
+    flex-direction: column;
+}
+
+
+.feature-inner-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position: relative;
+}
+
+.feature-inner-div>img {
+    height: 11vh;
+    width: auto;
+    object-fit: contain;
+    align-self: flex-end;
+    margin-top: auto;
+    margin-right: 0;
+    margin-bottom: 0.5em;
+}
