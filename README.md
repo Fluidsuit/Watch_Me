@@ -28,9 +28,11 @@ Watch Me demonstrates full-stack development skills, combining frontend creativi
 
 
 
+
 Desktop Size
 
 ![Screenshot of WatchMe](https://github.com/user-attachments/assets/ecccd4a5-bf04-4163-afdb-9428153df607)
+![Watch Me Screenshot](https://github.com/user-attachments/assets/dac3342b-355a-40c5-987c-dd6da7a2348d)
 
 
 
