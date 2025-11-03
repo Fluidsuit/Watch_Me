@@ -34,7 +34,8 @@ Desktop Size
 ![Screenshot of WatchMe](https://github.com/user-attachments/assets/ecccd4a5-bf04-4163-afdb-9428153df607)
 ![Movie Listings](https://github.com/user-attachments/assets/201e3ec2-2c5e-4549-9cd4-a8fcf24c6348)
 ![Search / Categories](https://github.com/user-attachments/assets/064129b3-65f8-4e2c-9f05-4fedd503bb74)
-![Player Page](https://github.com/user-attachments/assets/3e05379b-528a-4664-9cd3-7971bd2acfe6)
+![Dashboard](https://github.com/user-attachments/assets/ef73804e-acb3-4433-9cc5-83aa497ae1c4)
 
 
+Sign Up
 
