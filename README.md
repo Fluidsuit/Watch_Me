@@ -42,11 +42,22 @@ SignUp Page
 ![Screenshot 1](https://github.com/user-attachments/assets/1e706aef-d58f-4582-ba90-2eb94fa9a8d4)
 ![Screenshot 2](https://github.com/user-attachments/assets/ccf67831-2b51-4ba7-87f6-095822563774)
 
+
 Home Page
+
 ![Screenshot 3](https://github.com/user-attachments/assets/26b1bd0a-da6b-4865-9823-34a884a703b6)
 ![Screenshot 4](https://github.com/user-attachments/assets/fbeba4ee-17f9-4fa9-97ba-a672f80c45b1)
 ![Screenshot 5](https://github.com/user-attachments/assets/4a8cd6ae-23f8-4dd7-a185-7ea49304a962)
 ![Screenshot 6](https://github.com/user-attachments/assets/1930c042-2d65-4748-80a3-05666abb225d)
+
+
+Mobile View
+
+![Sign In](https://github.com/user-attachments/assets/174f72f0-fb3a-4051-b4f1-e51c9d7f096b)
+![Sign Up](https://github.com/user-attachments/assets/08577a42-4668-493a-8f5f-a51ad6000c12)
+![Home Page](https://github.com/user-attachments/assets/3cabe28e-81bd-44ec-9fa5-e7e32088d326)
+![Movie Info](https://github.com/user-attachments/assets/0219cda1-268e-4f3e-a701-3ff5cc0bfbb9)
+
 
 
 
