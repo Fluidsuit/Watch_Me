@@ -37,5 +37,17 @@ Desktop Size
 ![Dashboard](https://github.com/user-attachments/assets/ef73804e-acb3-4433-9cc5-83aa497ae1c4)
 
 
-Sign Up
+SignUp Page
+
+![Screenshot 1](https://github.com/user-attachments/assets/1e706aef-d58f-4582-ba90-2eb94fa9a8d4)
+![Screenshot 2](https://github.com/user-attachments/assets/ccf67831-2b51-4ba7-87f6-095822563774)
+
+Home Page
+![Screenshot 3](https://github.com/user-attachments/assets/26b1bd0a-da6b-4865-9823-34a884a703b6)
+![Screenshot 4](https://github.com/user-attachments/assets/fbeba4ee-17f9-4fa9-97ba-a672f80c45b1)
+![Screenshot 5](https://github.com/user-attachments/assets/4a8cd6ae-23f8-4dd7-a185-7ea49304a962)
+![Screenshot 6](https://github.com/user-attachments/assets/1930c042-2d65-4748-80a3-05666abb225d)
+
+
+
 
