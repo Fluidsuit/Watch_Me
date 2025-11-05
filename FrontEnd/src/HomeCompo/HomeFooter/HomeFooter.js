@@ -39,14 +39,13 @@ function HomeFooter() {
                     <div className='col-1'>
                         <select className=" bg-transparent text-[white] h-[2.1em] min-w-[80px] w-[10vw] max-w-[120px] text-[1em] font-medium border content-center justify-self-end text-center flex items-center justify-center mx-auto my-[45px] p-[5px] rounded-[5px] border-solid border-[rgba(255,255,255,0.5)];">
                             <option>English</option>
-                            <option>Marathi</option>
+                            <option>Hindi</option>
                         </select>
                     </div>
                 </div>
                 <div className='row'>
                     <p>This page is protected by Google reCAPTCHA to ensure you're not a bot. <a href='' className="text-[blue]">Learn more.</a></p>
                 </div>
-                <h1>Hello tailwind</h1>
             </div >
         </>
     )

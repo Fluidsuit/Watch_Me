@@ -1,5 +1,5 @@
 import HomeNavBarCss from './HomeNavBar.module.css';
-import NtfLogo from '../../Images/HomeImg/ntflogo.png';
+import NtfLogo from '../../Images/Icon/Watch Me.svg';
 import { useNavigate } from 'react-router-dom';
 function HomeNavBar(params) {
 
@@ -11,10 +11,10 @@ function HomeNavBar(params) {
     return (
         <>
             <div className={HomeNavBarCss['nav-bar']}>
-                <img src={NtfLogo} className={HomeNavBarCss['ntf-logo']} alt="Netflix Logo" />
+                <img src={NtfLogo} className={HomeNavBarCss['ntf-logo']} alt="WatchMe Logo" />
                 <select id='language-selector' className={HomeNavBarCss['lang-select']}>
                     <option>English</option>
-                    <option>Marathi</option>
+                    <option>Hindi</option>
                 </select>
                 <button id='btn-signin' className={HomeNavBarCss['btn-signin']} onClick={redirectToSignin}>Sign In</button>
             </div>

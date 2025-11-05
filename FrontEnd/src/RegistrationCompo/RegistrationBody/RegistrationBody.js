@@ -60,7 +60,7 @@ function RegistrationBody(params) {
                     </label>
                 </div>
                 <span className='text-gray-300'>
-                    New to Netflix? <Link to="/SignUp" className='text-white'>Sign Up now.</Link>
+                    New to WatchMe? <Link to="/SignUp" className='text-white'>Sign Up now.</Link>
                 </span>
                 <p className='text-[0.8em] mt-[2em]'>
                     This page is protected by Google reCAPTCHA to ensure you're not a bot.

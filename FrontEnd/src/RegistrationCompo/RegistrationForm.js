@@ -9,7 +9,7 @@ import PlanPage from "../PlanCompo/PlanPage";
 function RegistrationForm() {
   const [step, setStep] = useState(1);
   let [formData, setFormData] = useState({});
-
+   
   function disableLang() {
     let langBox = document.getElementById("language-selector");
     let btnSignIn = document.getElementById("btn-signin");

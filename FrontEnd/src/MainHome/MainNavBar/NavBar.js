@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
-import axios from "../../axios"; // your axios instance
+import axios from "../../axios"; 
 import logo from "../../Images/Icon/Watch Me.svg";
 import searchIcon from "../../Images/Icon/search.svg";
 import bell from "../../Images/Icon/bell.svg";

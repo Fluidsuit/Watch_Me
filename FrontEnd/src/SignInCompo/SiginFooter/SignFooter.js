@@ -34,7 +34,7 @@ function SignFooter() {
                     <div className='col-1'>
                         <select className={SignFooterCss['lang-select']}>
                             <option>English</option>
-                            <option>Marathi</option>
+                            <option>Hindi</option>
                         </select>
                     </div>
                 </div>

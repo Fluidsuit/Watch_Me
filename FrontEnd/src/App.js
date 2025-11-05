@@ -1,4 +1,5 @@
 import MainHome from "./MainHome/MainHome";
+import { Helmet } from "react-helmet";
 import Movie from "./MainHome/Movie";
 import Home from "./HomeCompo/Home"
 import SignIn from "./SignInCompo/SignIn";
@@ -15,6 +16,9 @@ import NewAndPopular from "./MainHome/NewAndPopular";
 function App() {
   return (
     <>
+      <Helmet>
+        <title>Watch Me</title>
+      </Helmet>
       <meta name="google-site-verification" content="pslAFLWLOXNbtadX2CegdllEQ6gIblMbizE32mxJSSg" />
       <ToastContainer
         position="top-center"
