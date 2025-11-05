@@ -30,6 +30,7 @@ Watch Me demonstrates full-stack development skills, combining frontend creativi
 
 
 Desktop Size
+
 ![Watch Me Screenshot](https://github.com/user-attachments/assets/f4f2e871-1ece-43cf-8cd2-c93b2b136f6d)
 ![Movie Listings](https://github.com/user-attachments/assets/201e3ec2-2c5e-4549-9cd4-a8fcf24c6348)
 ![Search / Categories](https://github.com/user-attachments/assets/064129b3-65f8-4e2c-9f05-4fedd503bb74)
@@ -37,7 +38,8 @@ Desktop Size
 
 
 SignUp Page
-![Watch Me Screenshot 2](https://github.com/user-attachments/assets/8668c45f-4132-43b7-a40c-0c4a1c9bb092)
+
+![WatchMe Banner](https://github.com/user-attachments/assets/e90e5a97-8b33-40b1-a197-803d393212f2)
 ![Screenshot 2](https://github.com/user-attachments/assets/ccf67831-2b51-4ba7-87f6-095822563774)
 
 
